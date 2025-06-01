@@ -2,7 +2,7 @@
 
 A basic calculator application developed with Kotlin. Performs fundamental arithmetic operations.
 
-![App Screenshot](https://via.placeholder.com/300x600?text=Calculator+Screenshot)
+![App Screenshot](https://imgur.com/a/Ze9M5l1)
 
 ## 📋 Features
 
